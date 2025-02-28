@@ -68,4 +68,4 @@ Below is a snippet of the final dashboard in Excel.
 
     ## End
    
-    Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/harshitt-gahlaut/
+    Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/dhruv-chaudharyy/
