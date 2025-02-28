@@ -38,7 +38,7 @@ Finally, the dashboard was created by inserting and customizing the pivot charts
 
 Below is a snippet of the final dashboard in Excel.
 
-![Coffee Sales Dashboard](https://github.com/harshitgahlaut/Coffee_Sales_Dashboard_Excel/assets/142779836/86d3edf7-d2ef-421b-9109-ffc157d26223)
+![Coffee Sales Dashboard](https://github.com/dhruvvchaudhary/Coffee-Sales-Dashboard/blob/main/Dashboard.png)
 
 
 ## Business Insights
